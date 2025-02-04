@@ -1,5 +1,4 @@
 datasets/FoCus/train.json
 downloaded_LM/*
 .venv
-
 trained_model/FoCus/*
